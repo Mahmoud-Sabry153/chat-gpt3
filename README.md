@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+live link of this project below
+https://www.chat-gpt3-react.great-site.net/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
